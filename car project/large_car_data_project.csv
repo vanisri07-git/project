@@ -1,0 +1,401 @@
+﻿Car_ID,Brand,Model,Year,Fuel_Type,Engine_Size,Transmission,Price,Color,Mileage_kmpl,Seats,Owner_Type
+1,Ford,Corolla,2017,Petrol,2.2L,Manual,35465,Yellow,12,4,Third
+2,Kia,3 Series,2023,Diesel,1.8L,CVT,16835,Grey,12,4,Third
+3,Ford,Jetta,2020,Hybrid,1.4L,Manual,19280,White,13,6,First
+4,Tesla,Forte,2015,Hybrid,1.2L,CVT,10660,Grey,10.7,7,First
+5,Hyundai,C-Class,2017,Diesel,2.4L,Manual,34074,Silver,17.6,6,Second
+6,Toyota,Civic,2023,Hybrid,1.6L,Manual,42067,Red,23.2,4,First
+7,BMW,3 Series,2022,Electric,1.2L,CVT,36350,Green,20.5,4,First
+8,Nissan,Forte,2017,Electric,1.6L,CVT,24045,Black,12.6,6,Second
+9,Hyundai,Elantra,2017,Petrol,2.0L,Automatic,53144,Black,22.2,5,Second
+10,Hyundai,3 Series,2019,Hybrid,1.4L,CVT,45698,Red,24.8,7,Third
+11,Toyota,Cruze,2020,Diesel,2.0L,CVT,16867,Red,18.3,6,First
+12,Audi,Jetta,2021,Electric,1.4L,Automatic,34768,Yellow,11.5,4,First
+13,Ford,Altima,2016,Petrol,2.0L,CVT,47015,Silver,15.9,5,First
+14,Kia,C-Class,2016,Electric,2.2L,Automatic,40770,White,15.2,4,Second
+15,BMW,Cruze,2015,Hybrid,0L,Manual,26479,Green,23.8,7,First
+16,Nissan,Civic,2021,Petrol,0L,CVT,19805,Blue,22.1,5,Second
+17,Mercedes,Elantra,2019,Petrol,1.8L,Manual,32223,Yellow,21.7,6,First
+18,Ford,A4,2016,Petrol,1.8L,CVT,40285,Green,19.8,4,Second
+19,BMW,Altima,2022,Electric,2.4L,Automatic,59116,Blue,21.7,7,Third
+20,Toyota,3 Series,2015,Hybrid,1.6L,Manual,33165,Grey,23.8,5,Second
+21,Hyundai,3 Series,2021,Hybrid,1.4L,Automatic,21711,Green,20.2,5,Third
+22,Tesla,Jetta,2018,Hybrid,2.4L,CVT,48456,Red,14.3,7,First
+23,Hyundai,Altima,2020,Hybrid,0L,Manual,38454,Green,16.3,7,First
+24,Nissan,Model 3,2018,Diesel,2.4L,CVT,42388,Blue,17,4,Second
+25,Kia,A4,2020,Petrol,1.4L,CVT,10588,Grey,25,5,First
+26,Hyundai,Civic,2017,Electric,1.6L,Manual,31565,Grey,21.3,5,Third
+27,Mercedes,3 Series,2019,Hybrid,1.6L,Automatic,39018,White,12.5,4,First
+28,Volkswagen,Altima,2017,Diesel,0L,CVT,24860,Blue,10.5,4,Second
+29,Volkswagen,Focus,2022,Electric,2.4L,Manual,13907,Green,20.1,7,Third
+30,Nissan,3 Series,2021,Diesel,1.8L,CVT,43806,Blue,20.7,4,First
+31,BMW,3 Series,2022,Petrol,1.2L,Manual,35864,Blue,13.7,6,Second
+32,Mercedes,Corolla,2020,Electric,1.2L,Automatic,26226,White,12.8,4,Third
+33,Honda,Jetta,2020,Diesel,1.4L,Manual,14784,White,17.2,4,Second
+34,Tesla,A4,2015,Diesel,1.2L,Automatic,38281,White,20.3,4,First
+35,Mercedes,C-Class,2022,Diesel,1.6L,CVT,21934,Red,13.1,7,Second
+36,Tesla,Jetta,2019,Electric,1.2L,CVT,42981,Silver,19.7,5,Second
+37,Volkswagen,Forte,2019,Petrol,1.2L,Automatic,24174,Yellow,18.4,6,Third
+38,Honda,Cruze,2023,Petrol,2.4L,Manual,33498,Blue,14.1,7,First
+39,Honda,Corolla,2022,Electric,2.0L,CVT,22926,Green,13.2,6,First
+40,Hyundai,C-Class,2018,Diesel,1.2L,Manual,36580,White,15.5,6,Third
+41,Honda,A4,2015,Diesel,1.2L,CVT,24192,Green,20.4,7,Third
+42,Kia,Jetta,2017,Hybrid,2.4L,Automatic,15034,Yellow,21,6,First
+43,BMW,Elantra,2019,Petrol,2.2L,Manual,46671,Yellow,10.2,6,Second
+44,Mercedes,Jetta,2018,Diesel,1.8L,CVT,42002,Red,23.3,5,Second
+45,Toyota,Altima,2015,Petrol,1.2L,CVT,45501,White,12.6,5,Second
+46,Toyota,Forte,2023,Electric,2.2L,Manual,32073,Grey,10,7,Third
+47,Ford,Focus,2023,Diesel,2.4L,Automatic,49868,Blue,23.2,5,Third
+48,Honda,Jetta,2021,Electric,2.2L,CVT,45981,Yellow,24.4,7,First
+49,Ford,Jetta,2019,Diesel,0L,Automatic,36131,White,12.5,5,First
+50,Ford,Forte,2018,Diesel,1.4L,Manual,16846,Blue,10.9,7,Second
+51,Nissan,3 Series,2021,Hybrid,2.0L,Automatic,36144,Silver,21.3,7,Third
+52,Tesla,Altima,2020,Hybrid,2.0L,Automatic,16809,Black,12.5,7,Third
+53,Volkswagen,A4,2019,Diesel,1.4L,Automatic,59668,Black,21.1,7,Third
+54,Ford,Focus,2022,Petrol,1.8L,Manual,40419,White,10.8,5,Second
+55,Kia,3 Series,2017,Hybrid,2.2L,Automatic,15417,Green,19.3,5,Third
+56,Chevrolet,Model 3,2023,Hybrid,1.8L,Automatic,29650,White,10.9,7,Second
+57,Toyota,Jetta,2017,Petrol,2.0L,Automatic,41229,Yellow,22.3,5,Third
+58,Kia,3 Series,2016,Petrol,1.2L,Automatic,46923,Red,13.5,6,Third
+59,Honda,Civic,2015,Hybrid,1.8L,Automatic,20705,Black,19.8,5,First
+60,Mercedes,C-Class,2017,Hybrid,2.0L,Automatic,15936,Blue,10.3,5,Third
+61,BMW,Model 3,2018,Hybrid,2.2L,Manual,38785,White,24.4,7,Third
+62,Audi,Focus,2018,Petrol,2.4L,Manual,28710,Green,22.5,6,Third
+63,Mercedes,3 Series,2022,Hybrid,1.6L,CVT,46487,Blue,21.1,5,Third
+64,Honda,Focus,2022,Electric,0L,Automatic,22029,Blue,21.5,5,Second
+65,Ford,Corolla,2018,Electric,2.4L,Automatic,25567,Red,15.8,5,Third
+66,BMW,3 Series,2021,Diesel,1.2L,Automatic,20884,Grey,20,4,First
+67,Tesla,Civic,2019,Electric,0L,Manual,40823,Green,13.2,5,Third
+68,Audi,3 Series,2019,Petrol,2.4L,CVT,22147,White,16.2,5,Second
+69,Kia,Corolla,2021,Diesel,0L,Automatic,22691,Red,17.9,6,Second
+70,Hyundai,C-Class,2020,Diesel,1.8L,CVT,26461,White,19.3,5,First
+71,Mercedes,3 Series,2015,Diesel,2.4L,Manual,25102,Yellow,11.2,6,Third
+72,Honda,Forte,2017,Electric,0L,Automatic,23524,Yellow,16.7,6,Second
+73,Honda,A4,2021,Electric,1.2L,Manual,40026,White,13.2,5,Third
+74,Chevrolet,Altima,2020,Hybrid,2.2L,CVT,44175,Yellow,15.1,6,Second
+75,Mercedes,Jetta,2015,Electric,2.4L,CVT,54837,Red,14.2,6,First
+76,Hyundai,Civic,2017,Hybrid,2.2L,Automatic,17546,Red,14.2,6,Third
+77,Mercedes,Jetta,2019,Electric,0L,CVT,46255,Green,25,4,Third
+78,Kia,3 Series,2017,Diesel,0L,CVT,29435,Black,22.4,7,Second
+79,BMW,Focus,2021,Electric,1.8L,Manual,38408,Silver,12.5,6,Second
+80,Nissan,Model 3,2017,Electric,1.6L,Automatic,10346,Red,21.1,4,Third
+81,Chevrolet,Corolla,2018,Petrol,2.4L,Automatic,12316,Silver,11.4,6,Second
+82,Nissan,C-Class,2016,Diesel,2.2L,CVT,45458,Black,23.5,7,First
+83,Honda,Jetta,2019,Petrol,2.0L,Automatic,22169,Silver,21.4,5,First
+84,Toyota,Elantra,2023,Electric,0L,Automatic,47729,White,13.4,6,First
+85,Kia,Model 3,2023,Diesel,1.2L,Manual,33432,Grey,12.7,6,Third
+86,Chevrolet,C-Class,2016,Electric,2.2L,Automatic,53803,Red,17.4,5,First
+87,Kia,A4,2016,Petrol,1.2L,Automatic,48543,Black,17,5,Third
+88,Kia,Civic,2019,Hybrid,1.6L,CVT,53238,Grey,24.7,6,Third
+89,Ford,Model 3,2020,Diesel,2.4L,CVT,56436,Green,14.7,7,Third
+90,Ford,Elantra,2021,Hybrid,2.4L,Manual,45449,Black,11.9,4,Third
+91,Toyota,Focus,2016,Petrol,2.4L,Automatic,14672,Green,10.2,7,First
+92,Toyota,C-Class,2019,Hybrid,2.2L,CVT,59875,Green,11,6,Second
+93,BMW,Altima,2015,Hybrid,1.8L,CVT,56796,Black,15.3,7,Second
+94,Hyundai,Corolla,2018,Electric,1.4L,Automatic,41349,Black,11.9,4,Second
+95,Hyundai,Corolla,2023,Diesel,1.4L,Automatic,52281,Grey,16.7,6,Third
+96,Nissan,Elantra,2016,Petrol,2.0L,CVT,45984,Black,22.8,6,Third
+97,Nissan,Jetta,2023,Diesel,2.0L,Automatic,49527,Blue,24.2,6,First
+98,Ford,Corolla,2020,Diesel,1.6L,CVT,40648,Red,19.1,4,First
+99,Honda,Altima,2022,Hybrid,1.6L,Automatic,37553,Blue,23.8,7,Third
+100,Mercedes,Corolla,2016,Electric,2.2L,Automatic,10907,Black,17.1,5,First
+101,Kia,Jetta,2015,Diesel,0L,Automatic,36510,Silver,11.3,4,Third
+102,Audi,Jetta,2017,Petrol,2.0L,CVT,15292,White,19.5,6,First
+103,Ford,C-Class,2018,Hybrid,2.0L,Automatic,22028,Yellow,11.4,6,Third
+104,Honda,A4,2017,Hybrid,0L,Automatic,43016,Red,17.1,6,First
+105,Tesla,Elantra,2022,Diesel,0L,CVT,55267,White,18.3,5,Third
+106,Tesla,Jetta,2019,Hybrid,1.2L,Automatic,37261,Silver,14.3,6,First
+107,Ford,Forte,2015,Petrol,2.2L,CVT,23863,Green,14.8,6,Third
+108,Honda,3 Series,2019,Petrol,1.8L,Manual,29494,Blue,15.4,7,Third
+109,Tesla,Focus,2017,Petrol,2.0L,Automatic,38380,Silver,12.3,7,Second
+110,Audi,Corolla,2018,Diesel,1.6L,CVT,58229,Black,19.7,5,First
+111,Honda,3 Series,2022,Hybrid,1.2L,Manual,54385,White,,5,Second
+112,Nissan,Civic,2023,Electric,0L,Manual,18835,Grey,14.4,7,Second
+113,Volkswagen,Forte,2022,Petrol,1.4L,CVT,35969,Blue,14.7,4,Second
+114,Tesla,Cruze,2018,Petrol,1.8L,Automatic,21765,Silver,11.7,5,Second
+115,Audi,3 Series,2022,Hybrid,2.2L,CVT,35283,Red,17.3,6,First
+116,Tesla,3 Series,2017,Hybrid,2.0L,Automatic,39213,Yellow,,4,Second
+117,Ford,A4,2023,Hybrid,1.4L,Automatic,45638,Red,19.3,7,First
+118,Nissan,Altima,2021,Diesel,1.2L,Automatic,46257,Silver,14.1,6,First
+119,Chevrolet,Jetta,2021,Diesel,2.4L,Automatic,11124,Blue,21.1,7,First
+120,Mercedes,3 Series,2019,Petrol,2.2L,Manual,11282,Silver,11.5,4,Second
+121,Tesla,Jetta,2021,Diesel,1.4L,CVT,49413,Red,18,4,First
+122,Hyundai,Altima,2015,Diesel,1.6L,CVT,20551,Grey,10.8,6,First
+123,Ford,Cruze,2018,Hybrid,1.4L,Automatic,33145,Red,24.1,4,Third
+124,Toyota,Focus,2016,Diesel,1.6L,CVT,35178,Grey,24.2,4,Second
+125,Hyundai,Focus,2021,Diesel,1.4L,CVT,52831,White,13.8,7,Third
+126,Nissan,A4,2022,Diesel,1.2L,CVT,25542,Blue,21.1,5,Third
+127,Toyota,Model 3,2022,Electric,2.0L,Manual,25393,Silver,12.2,6,Third
+128,BMW,Focus,2020,Hybrid,0L,Manual,16801,Silver,21.4,7,Third
+129,Hyundai,Focus,2015,Hybrid,1.2L,Automatic,39514,Green,20.2,5,First
+130,Tesla,A4,2020,Diesel,0L,CVT,19018,White,18.7,7,Second
+131,Hyundai,Model 3,2023,Hybrid,1.4L,CVT,50415,Yellow,21.6,5,Third
+132,Chevrolet,Cruze,2018,Petrol,0L,Automatic,56121,Grey,21,6,Third
+133,Volkswagen,Model 3,2015,Diesel,2.0L,Automatic,17244,Blue,12.5,7,Second
+134,Tesla,Altima,2022,Hybrid,1.4L,Automatic,16532,Grey,13.8,7,Third
+135,Volkswagen,A4,2018,Electric,1.6L,CVT,39047,Green,16.4,4,Second
+136,Honda,Jetta,2018,Diesel,2.2L,Manual,40404,Green,17.9,4,Third
+137,Ford,Focus,2020,Petrol,1.2L,CVT,17381,Blue,18.3,4,Third
+138,Kia,Focus,2016,Diesel,1.8L,Automatic,19101,Blue,14.4,5,First
+139,Hyundai,C-Class,2020,Diesel,1.8L,CVT,44014,Blue,11.7,7,Second
+140,Mercedes,C-Class,2015,Diesel,1.6L,Automatic,16077,Red,16.7,4,Second
+141,Hyundai,Corolla,2018,Petrol,1.4L,Manual,13914,Grey,18,7,Second
+142,Ford,3 Series,2018,Electric,0L,Manual,38079,Silver,14.7,7,First
+143,Toyota,Altima,2015,Electric,2.4L,Manual,13437,Black,24.9,7,Third
+144,Kia,C-Class,2017,Hybrid,1.2L,Automatic,58003,Green,15.5,7,Second
+145,Honda,Elantra,2020,Diesel,1.2L,Automatic,40079,Red,13.8,5,Third
+146,Audi,Altima,2020,Hybrid,0L,CVT,59339,White,22.4,6,Second
+147,Tesla,3 Series,2023,Petrol,2.4L,Automatic,29950,Red,21.1,5,First
+148,Chevrolet,Jetta,2016,Petrol,0L,Manual,46436,White,16.5,4,Second
+149,Ford,3 Series,2015,Petrol,1.8L,Manual,12022,Blue,22.9,5,First
+150,Nissan,Civic,2016,Petrol,2.2L,Manual,34566,Green,15.4,4,First
+151,Honda,Jetta,2020,Diesel,1.4L,Automatic,52785,Red,14.1,7,Third
+152,Hyundai,Altima,2020,Electric,1.2L,CVT,37441,White,11.1,5,Third
+153,Nissan,Forte,2022,Hybrid,2.2L,Manual,37124,Green,10.1,6,Third
+154,Chevrolet,Forte,2021,Petrol,2.2L,Manual,54032,Grey,23.7,5,Second
+155,Volkswagen,Focus,2017,Diesel,1.6L,CVT,26337,Red,23.7,4,First
+156,Chevrolet,Focus,2019,Petrol,0L,Manual,10196,Green,20.4,5,First
+157,BMW,Cruze,2020,Electric,1.8L,Manual,19515,White,11.3,4,Second
+158,Mercedes,Civic,2018,Petrol,1.4L,CVT,58913,Green,12.6,5,Second
+159,Honda,C-Class,2021,Diesel,1.2L,CVT,52438,Black,14.2,4,First
+160,Mercedes,Altima,2020,Petrol,1.4L,Automatic,22389,Silver,21.8,5,First
+161,Nissan,Corolla,2018,Electric,2.4L,Automatic,59674,Yellow,14.8,7,Second
+162,BMW,Civic,2019,Diesel,2.4L,CVT,15540,Black,12.8,4,First
+163,Hyundai,Elantra,2023,Petrol,2.4L,Automatic,52748,Black,19.8,7,First
+164,Nissan,Cruze,2019,Hybrid,2.2L,Manual,23627,Blue,14.1,7,Third
+165,Nissan,Focus,2018,Electric,1.2L,CVT,27203,Yellow,11.9,5,Third
+166,Mercedes,C-Class,2020,Petrol,0L,CVT,22731,Silver,21,4,Second
+167,Mercedes,Corolla,2022,Diesel,0L,Manual,20187,White,14.3,4,First
+168,Volkswagen,Elantra,2019,Hybrid,1.6L,Manual,43887,Yellow,19.1,5,First
+169,Volkswagen,C-Class,2020,Electric,1.4L,CVT,37478,Grey,11.1,4,Second
+170,Mercedes,Forte,2017,Diesel,2.0L,CVT,23599,Blue,15.6,6,Second
+171,Ford,Focus,2020,Hybrid,0L,Automatic,50742,Yellow,12.6,7,Second
+172,Audi,Focus,2022,Electric,1.2L,Automatic,33584,White,16.3,5,Second
+173,Toyota,A4,2021,Electric,1.2L,Automatic,11087,White,13.7,4,Third
+174,Volkswagen,Model 3,2015,Electric,1.8L,CVT,52982,White,17.7,7,Third
+175,Ford,Corolla,2016,Diesel,2.4L,Manual,47535,Grey,11.5,7,First
+176,Tesla,Elantra,2021,Diesel,1.2L,CVT,52375,Black,24,7,First
+177,BMW,Corolla,2016,Petrol,1.4L,Automatic,44526,Blue,24,6,Third
+178,BMW,Jetta,2016,Electric,2.4L,Manual,43806,Grey,22.2,7,Third
+179,Nissan,A4,2023,Diesel,0L,Manual,25716,Red,11.6,4,Third
+180,Tesla,Cruze,2015,Petrol,1.2L,CVT,28552,Yellow,13.6,7,First
+181,Hyundai,Corolla,2023,Electric,1.4L,Automatic,50373,Black,19.8,6,First
+182,Ford,Model 3,2018,Hybrid,1.4L,Manual,53247,Green,22.4,6,First
+183,Mercedes,Altima,2017,Diesel,2.2L,CVT,49767,White,16.3,5,First
+184,Kia,Elantra,2018,Hybrid,0L,CVT,42659,Silver,14.2,7,Second
+185,Ford,Corolla,2015,Hybrid,0L,Manual,12411,Blue,15.1,4,Second
+186,Toyota,C-Class,2016,Hybrid,0L,Manual,56219,Blue,22.3,5,Second
+187,Volkswagen,C-Class,2017,Hybrid,2.4L,Manual,36241,White,19.4,5,Third
+188,Toyota,Forte,2018,Hybrid,1.8L,CVT,19467,Black,13,5,Second
+189,Volkswagen,Forte,2023,Electric,1.8L,Manual,28637,Grey,16.3,4,Second
+190,Chevrolet,Jetta,2020,Petrol,1.6L,Automatic,15075,Blue,25,7,First
+191,Nissan,Model 3,2020,Electric,2.4L,Automatic,24137,Blue,19.4,5,First
+192,Nissan,Forte,2017,Diesel,2.0L,Manual,28584,Grey,24.9,4,Second
+193,Volkswagen,Civic,2017,Petrol,2.2L,CVT,13061,Red,24.3,5,First
+194,Toyota,Jetta,2017,Electric,0L,Automatic,51737,Black,14.1,4,Second
+195,Tesla,Cruze,2015,Diesel,1.8L,Automatic,46325,Red,14.2,4,Third
+196,BMW,Jetta,2020,Electric,1.6L,Manual,33935,Red,24.5,6,First
+197,Hyundai,Elantra,2016,Electric,1.8L,CVT,29020,Black,12.4,6,Second
+198,Kia,Model 3,2021,Hybrid,1.8L,Manual,10690,Yellow,19.6,4,Second
+199,Kia,Focus,2020,Hybrid,1.8L,CVT,57790,White,24.8,6,Third
+200,Tesla,Cruze,2016,Petrol,1.6L,Manual,51208,Silver,10.6,4,Third
+201,Chevrolet,Elantra,2019,Electric,1.6L,Automatic,49654,Green,11.9,4,First
+202,Honda,Corolla,2016,Electric,1.8L,CVT,59318,White,19.8,6,Second
+203,Audi,A4,2023,Diesel,1.8L,CVT,55362,Grey,12.2,5,Third
+204,BMW,A4,2015,Hybrid,1.4L,CVT,39375,Red,22.2,5,Second
+205,BMW,Model 3,2016,Petrol,1.2L,CVT,36314,Green,16.4,5,Third
+206,BMW,Civic,2020,Petrol,2.2L,CVT,35397,Silver,12.6,5,Third
+207,Volkswagen,Altima,2023,Electric,2.2L,Automatic,54460,Blue,24,4,Third
+208,Volkswagen,Civic,2021,Electric,0L,Manual,46955,Black,11.4,4,Third
+209,Tesla,Elantra,2016,Diesel,1.2L,Manual,25377,White,14.9,5,First
+210,Ford,Jetta,2019,Hybrid,2.4L,CVT,11404,Black,15.5,6,Third
+211,Toyota,A4,2021,Diesel,2.4L,CVT,59686,Silver,23.9,6,First
+212,Chevrolet,Cruze,2015,Diesel,1.8L,Automatic,17906,Blue,22.3,6,Third
+213,Volkswagen,Forte,2018,Electric,1.8L,Manual,22973,Yellow,16.7,4,Third
+214,BMW,Forte,2015,Petrol,1.2L,Manual,34286,Red,11.6,4,Second
+215,Nissan,Civic,2015,Electric,0L,CVT,28837,Black,11.9,4,Second
+216,BMW,A4,2015,Diesel,1.4L,Automatic,18759,Grey,13,6,Second
+217,Tesla,C-Class,2017,Hybrid,2.0L,CVT,42686,White,21.9,6,Third
+218,Audi,A4,2022,Hybrid,2.2L,CVT,35529,Grey,19.3,5,Second
+219,Audi,Civic,2020,Diesel,1.2L,CVT,43146,Silver,24,7,Second
+220,BMW,Cruze,2017,Petrol,1.8L,Manual,52081,Grey,16.4,4,Second
+221,BMW,Cruze,2015,Hybrid,1.8L,Manual,39952,Green,10.8,6,Second
+222,Mercedes,Model 3,2018,Electric,1.8L,Automatic,12563,Red,24.8,6,Second
+223,Hyundai,Elantra,2015,Hybrid,2.0L,Manual,18780,Green,17.5,6,First
+224,Toyota,C-Class,2019,Electric,2.4L,Automatic,15368,Red,20.1,4,First
+225,Chevrolet,Jetta,2016,Petrol,2.2L,Automatic,54534,White,12.7,5,Second
+226,Tesla,Focus,2015,Diesel,1.6L,Manual,57760,Blue,13.6,4,First
+227,Honda,Civic,2019,Diesel,0L,Automatic,56602,Blue,21.6,7,Second
+228,BMW,Model 3,2015,Petrol,2.2L,Manual,41099,Blue,11.9,5,First
+229,Tesla,Cruze,2017,Petrol,2.0L,Automatic,14865,Grey,24.9,4,Second
+230,BMW,Jetta,2021,Hybrid,2.4L,CVT,23777,Red,19.1,6,First
+231,Audi,Model 3,2022,Electric,1.6L,Manual,19155,Grey,15,5,First
+232,Toyota,Corolla,2022,Petrol,0L,Automatic,24591,Grey,17.8,7,Third
+233,Tesla,Jetta,2021,Petrol,2.4L,Automatic,27986,Black,23.9,7,Third
+234,Tesla,A4,2021,Electric,1.6L,Manual,54450,Yellow,23.4,6,Third
+235,Tesla,Forte,2015,Diesel,2.2L,Automatic,58137,Yellow,21.3,6,Second
+236,Volkswagen,Corolla,2016,Hybrid,1.6L,CVT,59389,Grey,23.1,5,Second
+237,Mercedes,Elantra,2022,Diesel,1.8L,Manual,18034,White,18.2,6,Third
+238,BMW,Model 3,2022,Hybrid,2.2L,CVT,45920,Red,17.5,7,Third
+239,Ford,A4,2022,Petrol,1.2L,CVT,24171,White,21.9,5,Second
+240,Volkswagen,Model 3,2017,Diesel,1.2L,CVT,19549,White,22,7,First
+241,Honda,C-Class,2021,Petrol,1.6L,Automatic,38337,Green,12.2,5,Second
+242,Nissan,C-Class,2015,Diesel,1.8L,Automatic,17937,Black,15.9,7,First
+243,Volkswagen,A4,2021,Diesel,1.2L,Manual,17958,Silver,13.4,6,Second
+244,Honda,Elantra,2018,Electric,1.2L,Manual,44731,Red,12.4,6,Third
+245,Tesla,Corolla,2017,Petrol,2.2L,Automatic,10778,Black,14.2,4,First
+246,Hyundai,Model 3,2016,Electric,1.8L,Manual,44123,Green,11.3,4,Second
+247,Audi,Altima,2018,Petrol,2.0L,Automatic,40900,Grey,22.3,5,Third
+248,BMW,Jetta,2015,Petrol,1.4L,CVT,20287,White,18.5,4,Second
+249,Nissan,Cruze,2022,Diesel,0L,CVT,19695,Blue,11.3,7,Third
+250,Toyota,Corolla,2022,Electric,0L,CVT,34905,White,12.4,6,Second
+251,Nissan,Model 3,2015,Electric,1.6L,Automatic,41629,Black,14.3,5,First
+252,Honda,C-Class,2018,Hybrid,1.6L,Automatic,11839,Red,22.2,5,Third
+253,Toyota,Civic,2022,Hybrid,2.0L,Automatic,25759,Green,14.1,4,First
+254,Kia,Corolla,2023,Hybrid,1.2L,Automatic,45110,White,11.9,5,First
+255,BMW,Civic,2020,Petrol,1.2L,Automatic,29860,Black,14.9,4,Third
+256,Mercedes,Jetta,2019,Diesel,1.6L,Manual,38091,Green,14.1,5,Third
+257,Mercedes,Altima,2021,Diesel,2.4L,Manual,40061,White,13.9,7,Third
+258,Ford,A4,2015,Diesel,2.0L,Automatic,37615,Green,15.8,4,Second
+259,Ford,C-Class,2020,Petrol,0L,Automatic,16079,Grey,19.4,5,Third
+260,BMW,Cruze,2020,Diesel,1.4L,Automatic,12367,Yellow,15.9,6,First
+261,Ford,Model 3,2023,Diesel,1.2L,CVT,28176,Grey,22.3,6,Third
+262,Tesla,Civic,2015,Diesel,2.4L,CVT,24178,White,20.7,6,Third
+263,Hyundai,Elantra,2016,Hybrid,2.4L,Automatic,31204,Red,21.9,4,Second
+264,Ford,Model 3,2019,Electric,1.4L,CVT,25496,Red,15.3,4,First
+265,Kia,Model 3,2017,Electric,2.0L,Manual,26518,Green,12.2,7,First
+266,Ford,Cruze,2021,Electric,2.0L,Automatic,45223,Silver,21.3,7,Second
+267,Chevrolet,Cruze,2022,Diesel,1.4L,CVT,35080,Green,19.1,4,First
+268,Mercedes,Elantra,2016,Petrol,2.0L,Automatic,20163,Red,12.9,7,First
+269,Nissan,Civic,2019,Petrol,0L,CVT,32936,Green,11.7,5,Third
+270,Honda,Altima,2022,Diesel,2.0L,CVT,11631,Yellow,20.4,7,Second
+271,Nissan,Model 3,2023,Petrol,1.2L,Automatic,39908,Red,17.8,4,Third
+272,Audi,Civic,2019,Hybrid,2.2L,Manual,22046,Blue,20.3,7,Third
+273,Chevrolet,Cruze,2017,Petrol,1.2L,Automatic,55012,Silver,10.3,5,Third
+274,Mercedes,3 Series,2015,Diesel,0L,CVT,52700,Silver,17,6,Second
+275,Tesla,Civic,2020,Diesel,0L,CVT,43871,Green,13.3,6,Third
+276,Audi,A4,2021,Hybrid,1.8L,CVT,46526,Silver,19.6,5,Third
+277,Chevrolet,Forte,2015,Petrol,1.6L,Automatic,34826,White,19.3,6,Third
+278,Hyundai,A4,2017,Petrol,2.4L,Automatic,48053,Green,11,7,Third
+279,Chevrolet,Model 3,2015,Petrol,2.4L,Manual,17605,Silver,18.8,5,Second
+280,BMW,Corolla,2015,Petrol,0L,Manual,13107,White,24.9,5,First
+281,Audi,Corolla,2020,Hybrid,2.0L,Manual,51784,White,21.7,6,First
+282,Honda,Cruze,2017,Hybrid,2.0L,Manual,14724,Silver,19.2,6,Second
+283,Volkswagen,Model 3,2018,Hybrid,1.2L,CVT,43998,Silver,16.5,4,Third
+284,Nissan,A4,2022,Hybrid,0L,Automatic,53422,Grey,15.7,4,First
+285,Tesla,Forte,2020,Electric,1.6L,Automatic,50815,Yellow,18.7,6,Second
+286,Nissan,Altima,2016,Petrol,1.6L,Automatic,39779,Black,12.7,4,Third
+287,Tesla,A4,2017,Electric,2.0L,Automatic,25868,Yellow,23.2,5,First
+288,Kia,C-Class,2019,Petrol,2.0L,Automatic,14110,Yellow,14.6,5,Second
+289,Tesla,C-Class,2020,Hybrid,1.4L,Automatic,51318,Red,23.9,4,Second
+290,Chevrolet,Forte,2020,Hybrid,1.8L,CVT,21044,Red,20,4,Third
+291,Mercedes,Civic,2015,Diesel,2.2L,CVT,12456,Red,23.3,6,Second
+292,BMW,Jetta,2022,Hybrid,1.4L,Manual,16793,Grey,21.8,4,Second
+293,Toyota,Corolla,2019,Petrol,1.6L,Manual,50630,Black,21.5,7,Third
+294,Chevrolet,Altima,2017,Petrol,2.0L,Automatic,54655,Silver,16.7,4,Second
+295,Tesla,Corolla,2023,Hybrid,1.8L,Automatic,54911,Grey,17.4,6,Third
+296,Ford,A4,2021,Electric,1.2L,CVT,24634,Green,15.9,7,First
+297,Kia,Forte,2023,Diesel,1.8L,CVT,30023,Black,16.9,7,First
+298,Audi,Elantra,2020,Diesel,2.0L,CVT,45377,Yellow,10.7,7,Third
+299,Chevrolet,Elantra,2019,Electric,2.2L,CVT,51137,Grey,16.1,5,Third
+300,Toyota,3 Series,2023,Petrol,2.4L,Manual,38914,Yellow,19.1,4,Second
+301,Hyundai,Forte,2022,Hybrid,1.4L,CVT,46796,White,22.2,6,Third
+302,Mercedes,Model 3,2022,Diesel,0L,CVT,26668,Black,18.6,7,Third
+303,Tesla,Forte,2016,Diesel,1.4L,CVT,48584,Grey,20.8,5,Third
+304,Ford,Cruze,2021,Diesel,1.8L,CVT,35758,Blue,23.7,5,Second
+305,Ford,Corolla,2023,Diesel,2.4L,Manual,37440,White,12,6,Third
+306,Hyundai,Jetta,2021,Diesel,0L,Automatic,46068,White,16.8,6,First
+307,Tesla,Altima,2023,Hybrid,2.0L,CVT,19226,Blue,18.3,7,Second
+308,Kia,Model 3,2023,Diesel,1.2L,CVT,15923,Yellow,19.9,4,Second
+309,Mercedes,Focus,2016,Diesel,2.2L,Manual,43302,Yellow,15.7,7,Third
+310,Tesla,Model 3,2017,Hybrid,1.6L,Manual,40513,Grey,22.5,7,First
+311,Toyota,Model 3,2018,Electric,2.2L,CVT,41939,Blue,15.9,5,Third
+312,Honda,Corolla,2023,Electric,1.8L,CVT,23965,Blue,14.7,5,Second
+313,Kia,Cruze,2020,Diesel,1.4L,Automatic,19010,Red,23.8,5,Third
+314,Nissan,Focus,2018,Petrol,1.6L,Manual,32496,Red,11.6,6,Second
+315,Nissan,Elantra,2015,Hybrid,2.2L,Automatic,10236,Grey,12.2,5,First
+316,Kia,Civic,2018,Electric,1.2L,Manual,36344,Black,21.4,6,Second
+317,BMW,Focus,2020,Electric,2.4L,CVT,42958,White,10.3,5,Third
+318,Honda,Forte,2016,Diesel,1.8L,Manual,55533,Blue,17,7,First
+319,Audi,C-Class,2017,Hybrid,1.8L,Automatic,18896,Red,23.8,5,Third
+320,Ford,3 Series,2015,Petrol,1.6L,Automatic,18755,Green,16.7,5,Third
+321,Kia,Forte,2017,Hybrid,2.2L,Manual,23492,Red,11.5,4,Second
+322,Hyundai,A4,2021,Electric,1.8L,CVT,53268,Yellow,13.8,5,Third
+323,Nissan,Altima,2016,Hybrid,2.0L,Automatic,44485,White,17.1,7,Second
+324,Honda,Corolla,2018,Hybrid,0L,Manual,48941,Blue,24.3,4,Second
+325,Hyundai,Forte,2015,Electric,2.0L,Automatic,52490,Grey,19.4,4,Third
+326,Toyota,Corolla,2015,Hybrid,2.2L,CVT,51597,Blue,17.9,7,First
+327,Kia,3 Series,2018,Electric,1.6L,CVT,47677,Grey,21.7,7,Third
+328,Honda,Jetta,2016,Diesel,2.0L,CVT,23179,Green,14,7,Third
+329,Nissan,Forte,2018,Diesel,2.4L,Manual,32856,Silver,20.5,4,Second
+330,Volkswagen,Model 3,2022,Petrol,1.4L,Automatic,19858,Yellow,14,6,Second
+331,Toyota,A4,2022,Diesel,2.2L,Automatic,13072,Black,10.6,7,Second
+332,BMW,Jetta,2017,Electric,0L,Automatic,31256,White,13.8,5,Third
+333,BMW,Civic,2017,Diesel,1.2L,CVT,44083,White,21.5,7,Second
+334,Volkswagen,C-Class,2020,Diesel,0L,CVT,42601,White,14.9,5,Second
+335,Nissan,3 Series,2018,Hybrid,1.8L,Manual,10015,Silver,15.3,7,Second
+336,Volkswagen,Model 3,2016,Diesel,1.8L,Automatic,21196,Yellow,10.4,4,Second
+337,Audi,Altima,2018,Diesel,2.0L,Automatic,25011,Red,16.9,6,First
+338,Volkswagen,Altima,2023,Diesel,1.2L,CVT,46146,Red,21.7,7,Third
+339,Ford,A4,2021,Hybrid,1.8L,Manual,26287,Grey,22,7,First
+340,Ford,Altima,2017,Diesel,0L,CVT,48476,Silver,12.8,6,Third
+341,BMW,Focus,2018,Diesel,2.2L,Manual,30652,White,12.5,4,Second
+342,Hyundai,A4,2015,Hybrid,1.8L,CVT,32051,Green,21.5,5,First
+343,Kia,Jetta,2021,Hybrid,2.2L,Manual,21220,Yellow,23.1,6,Second
+344,Tesla,Elantra,2019,Petrol,1.4L,Manual,33901,Black,23.3,4,Second
+345,Kia,Civic,2019,Electric,1.2L,Manual,22225,Red,19.6,5,First
+346,Chevrolet,Jetta,2023,Hybrid,0L,CVT,58453,Silver,15.8,6,First
+347,Ford,C-Class,2016,Hybrid,1.4L,Manual,19615,Silver,14.1,5,Second
+348,Kia,Elantra,2016,Diesel,1.4L,CVT,43508,Red,17.9,7,First
+349,Volkswagen,Forte,2016,Petrol,2.0L,Automatic,50143,Grey,19.6,6,Second
+350,Volkswagen,Altima,2018,Electric,2.4L,Manual,56360,Black,12.5,5,First
+351,Audi,Forte,2023,Petrol,2.2L,Automatic,33184,Green,23.5,5,Second
+352,Tesla,Focus,2018,Hybrid,1.8L,CVT,49709,White,19.9,6,Second
+353,Volkswagen,3 Series,2018,Diesel,2.2L,Automatic,28715,Grey,16.1,5,Second
+354,Chevrolet,Elantra,2020,Diesel,1.4L,CVT,54564,Yellow,11.1,4,Third
+355,Audi,Cruze,2016,Petrol,1.2L,Automatic,16734,Red,17.1,4,First
+356,Tesla,3 Series,2022,Hybrid,1.2L,Manual,14244,White,24.5,4,Third
+357,Honda,Cruze,2019,Diesel,1.6L,CVT,36530,Grey,23.5,4,Second
+358,Mercedes,3 Series,2018,Electric,1.8L,Manual,33875,Green,22.6,6,Second
+359,Toyota,3 Series,2020,Diesel,1.4L,Automatic,25512,White,11.7,7,First
+360,Audi,Cruze,2021,Diesel,1.2L,Manual,30737,Red,22.2,6,Third
+361,Chevrolet,A4,2019,Hybrid,0L,Manual,22274,Black,12.5,5,First
+362,Nissan,C-Class,2021,Petrol,1.6L,Manual,59803,Silver,24.2,5,First
+363,Ford,Model 3,2023,Petrol,1.2L,Automatic,34760,Grey,18.6,7,Second
+364,Kia,C-Class,2015,Electric,2.4L,Manual,25786,Blue,17.9,4,First
+365,Honda,Altima,2020,Petrol,2.2L,Manual,10175,Silver,13.5,5,Third
+366,Kia,A4,2017,Hybrid,2.2L,Manual,17346,Black,11.3,6,First
+367,Volkswagen,Civic,2015,Petrol,1.8L,Manual,20091,Red,12.4,5,Third
+368,Hyundai,Model 3,2021,Electric,2.2L,Automatic,27962,Red,21.7,7,Second
+369,Mercedes,Forte,2016,Diesel,2.2L,CVT,17492,Silver,22.7,7,First
+370,Tesla,Forte,2018,Electric,2.2L,Manual,10855,Black,21.2,5,Third
+371,Kia,3 Series,2015,Electric,2.0L,Automatic,42052,Yellow,14.7,5,Second
+372,Toyota,C-Class,2021,Diesel,0L,Automatic,30546,Yellow,10.5,4,Second
+373,Volkswagen,A4,2019,Electric,1.6L,Automatic,43725,Grey,23.3,5,Third
+374,Volkswagen,Civic,2019,Petrol,1.4L,Manual,23423,Silver,17.9,5,Third
+375,Volkswagen,Focus,2017,Diesel,2.0L,Automatic,13399,Grey,24.6,6,Second
+376,Ford,3 Series,2015,Diesel,1.8L,Manual,54071,Red,16.2,4,Second
+377,Toyota,Jetta,2018,Petrol,1.8L,Automatic,23961,White,11.3,6,Second
+378,Audi,Elantra,2016,Hybrid,1.6L,Automatic,45181,White,16.6,5,First
+379,BMW,3 Series,2021,Electric,2.4L,Automatic,17569,Silver,18.2,6,Second
+380,Volkswagen,A4,2015,Hybrid,2.2L,Manual,32232,Blue,15.9,4,Third
+381,Honda,Altima,2021,Petrol,0L,CVT,26862,Blue,17.9,5,Third
+382,Chevrolet,Jetta,2022,Hybrid,2.4L,Automatic,53864,Black,13.1,5,Second
+383,Audi,Altima,2017,Petrol,2.4L,CVT,42436,Red,17.5,7,Second
+384,Volkswagen,Altima,2018,Diesel,1.8L,Manual,13393,White,22.5,6,Second
+385,Tesla,Altima,2018,Diesel,2.4L,Automatic,48601,White,15.9,6,Third
+386,Volkswagen,Elantra,2018,Diesel,1.2L,Manual,21471,Green,13.2,6,Second
+387,Honda,3 Series,2016,Electric,2.4L,Manual,25920,White,16.9,6,Third
+388,BMW,Forte,2018,Electric,1.4L,Manual,45694,Red,18.4,5,First
+389,Tesla,Cruze,2015,Petrol,1.2L,Automatic,32495,Red,21.9,4,First
+390,Chevrolet,Corolla,2020,Petrol,1.6L,CVT,36129,Black,11.3,5,First
+391,Audi,Forte,2017,Diesel,1.6L,Manual,46078,Red,23.5,4,Third
+392,Honda,Cruze,2015,Electric,1.8L,Automatic,56866,Grey,13.7,7,First
+393,Audi,Jetta,2018,Diesel,1.2L,CVT,52143,Grey,19.9,6,Third
+394,Volkswagen,Civic,2018,Electric,1.4L,CVT,34966,White,13.5,4,Third
+395,Hyundai,Jetta,2023,Hybrid,1.8L,Manual,29093,Green,22.3,4,Third
+396,Audi,Corolla,2021,Electric,0L,Automatic,36590,Yellow,19.1,6,Third
+397,Volkswagen,Altima,2021,Hybrid,2.0L,Manual,34714,Grey,15.2,4,Second
+398,Hyundai,Altima,2017,Electric,0L,CVT,59178,Blue,12.9,6,Second
+399,BMW,Model 3,2018,Diesel,0L,Manual,18416,Red,11,5,Second
+400,Hyundai,Corolla,2015,Petrol,0L,CVT,55336,Black,20.4,4,First
